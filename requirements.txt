@@ -1,0 +1,4 @@
+Pytesseract
+Open-CV
+gTTS - Google Text To Speech
+PIL
